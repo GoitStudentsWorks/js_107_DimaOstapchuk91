@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/The-Jedi-of-JavaScript-team/",
+    "build": "vite build --base=/js_107_DimaOstapchuk91/",
     "preview": "vite preview"
   },
   "devDependencies": {
